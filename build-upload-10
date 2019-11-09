@@ -1,0 +1,7 @@
+./build auth
+./build admin
+./build somos
+
+./upload auth 192.168.2.10
+./upload admin 192.168.2.10
+./upload somos 192.168.2.10
